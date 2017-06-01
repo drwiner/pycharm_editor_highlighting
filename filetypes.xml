@@ -1,0 +1,39 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="agf" type="PLAIN_TEXT" />
+      <mapping pattern="TIME" type="PLAIN_TEXT" />
+      <mapping pattern="dfdf" type="PLAIN_TEXT" />
+      <mapping pattern="5cs" type="PLAIN_TEXT" />
+      <mapping pattern="ark-requirements-problem" type="PLAIN_TEXT" />
+      <mapping pattern="seed_phrases" type="PLAIN_TEXT" />
+      <mapping pattern="SPATIAL" type="PLAIN_TEXT" />
+      <mapping pattern="WEAPON" type="PLAIN_TEXT" />
+      <mapping pattern="doc_sents900000_copy" type="PLAIN_TEXT" />
+      <mapping pattern="scene_lib_file" type="PLAIN_TEXT" />
+      <mapping pattern="doc_sents200000_copy" type="PLAIN_TEXT" />
+      <mapping pattern="mslv" type="PLAIN_TEXT" />
+      <mapping pattern="movie_output-ftstream" type="PLAIN_TEXT" />
+      <mapping pattern="most_common words" type="PLAIN_TEXT" />
+      <mapping pattern="key_phrases" type="PLAIN_TEXT" />
+      <mapping pattern="PERSON" type="PLAIN_TEXT" />
+      <mapping pattern="BODYPARTS" type="PLAIN_TEXT" />
+      <mapping pattern="doc_sents0" type="PLAIN_TEXT" />
+      <mapping pattern="3a" type="PLAIN_TEXT" />
+      <mapping pattern="VEHICLE" type="PLAIN_TEXT" />
+      <mapping pattern="ITEM" type="PLAIN_TEXT" />
+      <mapping pattern="last_sents" type="PLAIN_TEXT" />
+      <mapping pattern="LOCATION" type="PLAIN_TEXT" />
+      <mapping pattern="new_test" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="pddl" type="PLAIN_TEXT" />
+      <mapping ext="patterns" type="PLAIN_TEXT" />
+      <mapping ext="lexicon" type="PLAIN_TEXT" />
+      <mapping ext="extractionpattern" type="PLAIN_TEXT" />
+      <mapping ext="parse" type="PLAIN_TEXT" />
+      <mapping pattern="reuse_old" type="Python" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,135 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.3.2 (D:\Python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.3.2" />
+      <homePath value="D:\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Documents/Python" />
+            <root type="simple" url="file://D:/Python/DLLs" />
+            <root type="simple" url="file://D:/Python/Lib" />
+            <root type="simple" url="file://D:/Python" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/Planner-1.0-py3.3.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/src/sense2vec" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-643338342" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.3.2 virtualenv at D:\Downloads\glut" />
+      <type value="Python SDK" />
+      <version value="Python 3.3.2" />
+      <homePath value="D:\Downloads\glut\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Downloads/glut/Lib/site-packages/setuptools-18.1-py3.3.egg!/" />
+            <root type="simple" url="file://D:/Downloads/glut/Lib/site-packages/pip-7.1.0-py3.3.egg" />
+            <root type="simple" url="file://D:/Documents/Python" />
+            <root type="simple" url="file://D:/Python/DLLs" />
+            <root type="simple" url="file://D:/Python/Lib" />
+            <root type="simple" url="file://D:/Python" />
+            <root type="simple" url="file://D:/Downloads/glut" />
+            <root type="simple" url="file://D:/Downloads/glut/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/401175189" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Documents/Python/PyNavon" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (D:\Programs\Panda3D-1.9.2-x64\python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="D:\Programs\Panda3D-1.9.2-x64\python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Documents/Python" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64/python/DLLs" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64/python/Lib" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64/python/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64/python" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64/bin" />
+            <root type="simple" url="file://D:/Programs/Panda3D-1.9.2-x64/python/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1756267332" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3rc1 (D:\Programs\Py34_32bit\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3rc1" />
+      <homePath value="D:\Programs\Py34_32bit\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Documents/Python" />
+            <root type="simple" url="file://D:/Programs/Py34_32bit/DLLs" />
+            <root type="simple" url="file://D:/Programs/Py34_32bit/Lib" />
+            <root type="simple" url="file://D:/Programs/Py34_32bit" />
+            <root type="simple" url="file://D:/Programs/Py34_32bit/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1813980433" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (D:\Programs\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="D:\Programs\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Documents/Python" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/DLLs" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/Lib" />
+            <root type="simple" url="file://D:/Programs/Anaconda3" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/Lib/site-packages" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/Lib/site-packages/Sphinx-1.4.6-py3.5.egg" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Programs/Anaconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://D:/Programs/Anaconda3/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/2119334094" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
